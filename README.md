@@ -29,5 +29,29 @@ cd FileConverter
 python -m venv venv
 source venv/bin/activate   # Linux / Mac
 venv\Scripts\activate      # Windows
+```
+### 3. Install Dependensi
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Install LibreOffice
+```bash
+Windows: Download LibreOffice
+Pastikan path soffice.exe ada di:
+
+C:\Program Files\LibreOffice\program\soffice.exe
+
+atau tambahkan ke PATH
+
+Linux / Mac:
+
+sudo apt install libreoffice     # Ubuntu / Debian
+brew install --cask libreoffice  # Mac (Homebrew)
+```
+
+### 5. Menjalankan Aplikasi
+```bash
+python app.py
 
 ```
