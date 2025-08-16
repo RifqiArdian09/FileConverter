@@ -38,7 +38,8 @@ pip install -r requirements.txt
 ### 4. Install LibreOffice
 ```bash
 Windows: Download LibreOffice
-Pastikan path soffice.exe ada di:
+Pastikan path soffice.exe ada di: [https://www.libreoffice.org/download/]
+(https://www.libreoffice.org/download/)
 
 C:\Program Files\LibreOffice\program\soffice.exe
 
